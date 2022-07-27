@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$" />
+    <file type="web" url="file://$PROJECT_DIR$/../springmvc-exception-handler" />
+    <file type="web" url="file://$PROJECT_DIR$/../springmvc-forward-redirect" />
+    <file type="web" url="file://$PROJECT_DIR$/../springmvc-interceptor" />
+    <file type="web" url="file://$PROJECT_DIR$/../springmvc-recevieparam" />
+    <file type="web" url="file://$PROJECT_DIR$/../springmvc-requestmapping" />
+    <file type="web" url="file://$PROJECT_DIR$/../springmvc-return" />
+    <file type="web" url="file://$PROJECT_DIR$/../ssm" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../springmvc-requestmapping/pom.xml" />
+        <option value="$PROJECT_DIR$/../springmvc-recevieparam/pom.xml" />
+        <option value="$PROJECT_DIR$/../springmvc-return/pom.xml" />
+        <option value="$PROJECT_DIR$/../ssm/pom.xml" />
+        <option value="$PROJECT_DIR$/../springmvc-forward-redirect/pom.xml" />
+        <option value="$PROJECT_DIR$/../springmvc-exception-handler/pom.xml" />
+        <option value="$PROJECT_DIR$/../springmvc-interceptor/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
